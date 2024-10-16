@@ -58,5 +58,7 @@ Após a instalação, inicie o frontend com o comando:
 
 ## 4. Localhost
 
-Ao executar o comando ```npm run dev``` ele ira abrir na porta 3000.
+O acesso ao servidor sera pelo `http://localhost:3001`.
+
+
 
