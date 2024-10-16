@@ -31,8 +31,9 @@ Iniciar o servidor frontend:
 
 Após a instalação, inicie o frontend com o comando:
 
-npm start
-3.**Configurar o **Frontend** (Interface de usuário)**
+npm start server
+
+3.Configurar o **Frontend** (Interface de usuário)
 Abrir outro terminal (PowerShell ou outro) no diretório do frontend:
 
 Navegue até a pasta do frontend com o comando:
@@ -46,10 +47,11 @@ Copiar código
 Instalar as dependências do backend:
 
 No terminal, rode o comando para instalar as dependências do Node.js:
-
+```
 bash
 Copiar código
 npm i
+```
 Iniciar o servidor backend:
 
 Após a instalação, rode o servidor backend com o comando:
