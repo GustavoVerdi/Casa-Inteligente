@@ -28,7 +28,7 @@ Instalar as dependências do projeto:
    npm i
    ```
 Apos fazer a instalação das dependencias executar o comando
- ```bash
+ ```powershell
     npm run dev
  ```
 
