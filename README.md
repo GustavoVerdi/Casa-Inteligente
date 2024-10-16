@@ -1,5 +1,7 @@
 # Casa-Inteligente
 
+Dev by: @
+
 ### Passo a passo para rodar o projeto:
 
 ---
@@ -12,11 +14,10 @@
 ---
 
 ## 2.Configurar o Backend (Servidor)
-Abrir outro terminal (PowerShell ou outro) no diretório do backend:
 
 **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
 
-   Navegue até a pasta do frontend com o comando:
+   Navegue até a pasta do backend com o comando:
 
    ```
    cd <caminho-da-pasta>/casainteligente-backend
@@ -32,13 +33,11 @@ Apos fazer a instalação das dependencias executar o comando
     npm run dev
  ```
 
-Sempre inicie o backend primeiro.
+Sempre iniciar o backend primeiro.
 
-## 3.Configurar e Iniciar o servidor frontend:
+## 3.Configurar e Iniciar o servidor Frontend:
 
 Abrir outro terminal (PowerShell ou outro) no diretório do Frontend:
-
-**Abrir o terminal (PowerShell ou outro) no diretório do Frontend:**
 
    Navegue até a pasta do frontend com o comando:
 
@@ -56,4 +55,5 @@ Após a instalação, inicie o frontend com o comando:
   ```
    npm start server
   ```
+4![image](https://github.com/user-attachments/assets/368aeeb3-ec2b-43eb-9d4d-1f9aeda0c8af)
 
