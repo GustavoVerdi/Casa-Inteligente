@@ -34,7 +34,7 @@ Apos fazer a instalação das dependencias executar o comando
 
 Sempre inicie o backend primeiro.
 
-##3.Configurar e Iniciar o servidor frontend:
+## 3.Configurar e Iniciar o servidor frontend:
 
 Abrir outro terminal (PowerShell ou outro) no diretório do Frontend:
 
