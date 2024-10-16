@@ -14,7 +14,7 @@
 ## 2.Configurar o Backend (Servidor)
 Abrir outro terminal (PowerShell ou outro) no diretório do backend:
 
-1. **Abrir o terminal (PowerShell ou outro) no diretório do frontend:**
+1. **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
 
    Navegue até a pasta do frontend com o comando:
 
@@ -27,6 +27,13 @@ Instalar as dependências do projeto:
    ```bash
    npm i
    ```
+Apos fazer a instalação das dependencias executar o comando
+ ```bash
+    npm run dev
+ ```
+
+Sempre inicie o backend primeiro:
+
 Iniciar o servidor frontend:
 
 Após a instalação, inicie o frontend com o comando:
@@ -38,8 +45,6 @@ Abrir outro terminal (PowerShell ou outro) no diretório do frontend:
 
 Navegue até a pasta do frontend com o comando:
 
-bash
-Copiar código
    ```bash
    cd <caminho-da-pasta>/casainteligente-frontend
    ```
