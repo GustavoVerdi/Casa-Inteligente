@@ -33,7 +33,7 @@ Após a instalação, inicie o frontend com o comando:
 
 npm start server
 
-3.Configurar o **Frontend** (Interface de usuário)
+3.**Configurar o Frontend (Interface de usuário)**
 Abrir outro terminal (PowerShell ou outro) no diretório do frontend:
 
 Navegue até a pasta do frontend com o comando:
