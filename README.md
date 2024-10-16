@@ -55,5 +55,8 @@ Após a instalação, inicie o frontend com o comando:
   ```
    npm start server
   ```
-4![image](https://github.com/user-attachments/assets/368aeeb3-ec2b-43eb-9d4d-1f9aeda0c8af)
+
+## 4. Localhost
+
+Ao executar o comando ```npm run dev``` ele ira abrir na porta 3000.
 
