@@ -1,6 +1,6 @@
 # Casa-Inteligente
 
-Dev by: @
+Dev by: @GustavoVerdi @Henrikygustavo
 
 ### Passo a passo para rodar o projeto:
 
