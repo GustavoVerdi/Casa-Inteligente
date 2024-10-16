@@ -14,7 +14,7 @@
 ## 2.Configurar o Backend (Servidor)
 Abrir outro terminal (PowerShell ou outro) no diretório do backend:
 
-1. **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
+**Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
 
    Navegue até a pasta do frontend com o comando:
 
@@ -23,7 +23,7 @@ Abrir outro terminal (PowerShell ou outro) no diretório do backend:
    ```
 Instalar as dependências do projeto:
 
-2. **No terminal, rode o comando para instalar as dependências do Node.js:**
+**No terminal, rode o comando para instalar as dependências do Node.js:**
    ```
    npm i
    ```
@@ -34,39 +34,26 @@ Apos fazer a instalação das dependencias executar o comando
 
 Sempre inicie o backend primeiro.
 
-Iniciar o servidor frontend:
+##3.Configurar e Iniciar o servidor frontend:
 
-Após a instalação, inicie o frontend com o comando:
+Abrir outro terminal (PowerShell ou outro) no diretório do Frontend:
 
-npm start server
+**Abrir o terminal (PowerShell ou outro) no diretório do Frontend:**
 
-3.**Configurar o Frontend (Interface de usuário)**
-Abrir outro terminal (PowerShell ou outro) no diretório do frontend:
+   Navegue até a pasta do frontend com o comando:
 
-Navegue até a pasta do frontend com o comando:
-
-   ```bash
+   ```
    cd <caminho-da-pasta>/casainteligente-frontend
    ```
+Para instalar as dependências do projeto:
 
-Instalar as dependências do backend:
+**No terminal, rode o comando para instalar as dependências do Node.js:**
+   ```
+   npm i
+   ```
 
-No terminal, rode o comando para instalar as dependências do Node.js:
-```bash
-npm i
-```
-Iniciar o servidor backend:
-
-Após a instalação, rode o servidor backend com o comando:
-
-bash
-
-npm run dev
-Ordem de inicialização:
-Sempre inicie o backend primeiro:
-
-Inicie o servidor backend com o comando npm run dev.
-Depois, inicie o frontend:
-
-Inicie o frontend com o comando npm start.
+Após a instalação, inicie o frontend com o comando:
+  ```
+   npm start server
+  ```
 
