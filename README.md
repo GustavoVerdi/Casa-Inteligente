@@ -20,13 +20,13 @@ Abrir outro terminal (PowerShell ou outro) no diretório do backend:
 
    ```bash
    cd <caminho-da-pasta>/casainteligente-backend
-
+   ```
 Instalar as dependências do projeto:
 
 2. **No terminal, rode o comando para instalar as dependências do Node.js:**
    ```bash
    npm i
-
+   ```
 Iniciar o servidor frontend:
 
 Após a instalação, inicie o frontend com o comando:
@@ -42,14 +42,12 @@ bash
 Copiar código
    ```bash
    cd <caminho-da-pasta>/casainteligente-frontend
-```
+   ```
 
 Instalar as dependências do backend:
 
 No terminal, rode o comando para instalar as dependências do Node.js:
-```
-bash
-Copiar código
+```bash
 npm i
 ```
 Iniciar o servidor backend:
@@ -57,7 +55,7 @@ Iniciar o servidor backend:
 Após a instalação, rode o servidor backend com o comando:
 
 bash
-Copiar código
+
 npm run dev
 Ordem de inicialização:
 Sempre inicie o backend primeiro:
