@@ -4,7 +4,7 @@ Dev by: `@GustavoVerdi` ```@Henrikygustavo```
 ---
 ## 1.Configurar o Backend (Servidor)
 **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
-   Navegue até a pasta do backend com o comando:
+   Com a pasta em sua máquina, navegue até a pasta do backend com o comando:
    ```
    cd <caminho-da-pasta>/casainteligente-backend
    ```
