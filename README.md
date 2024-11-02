@@ -1,5 +1,4 @@
 # Casa-Inteligente
-Dev by: @GustavoVerdi @Henrikygustavo
 Dev by: `@GustavoVerdi` ```@Henrikygustavo```
 ### Passo a passo para rodar o projeto:
 ---
