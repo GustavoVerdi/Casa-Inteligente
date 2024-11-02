@@ -2,11 +2,7 @@
 Dev by: `@GustavoVerdi` ```@Henrikygustavo```
 ### Passo a passo para rodar o projeto:
 ---
-## 1. Baixar e descompactar o arquivo
-- Baixe o arquivo `CasaInt.rar`.
-- Descompacte o arquivo `.rar` em uma pasta de sua escolha.
----
-## 2.Configurar o Backend (Servidor)
+## 1.Configurar o Backend (Servidor)
 **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
    Navegue até a pasta do backend com o comando:
    ```
@@ -22,7 +18,7 @@ Apos fazer a instalação das dependencias executar o comando
     npm run dev
  ```
 Sempre iniciar o backend primeiro.
-## 3.Configurar e Iniciar o servidor Frontend:
+## 2.Configurar e Iniciar o servidor Frontend:
 Abrir outro terminal (PowerShell ou outro) no diretório do Frontend:
    Navegue até a pasta do frontend com o comando:
    ```
@@ -37,5 +33,5 @@ Após a instalação, inicie o frontend com o comando:
   ```
    npm start server
   ```
-## 4. Localhost
+## 3. Localhost
 O acesso ao servidor sera pelo `http://localhost:3001`.
