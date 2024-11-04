@@ -95,6 +95,6 @@ function estadoArCondicionadoValido(estadoArCondicionado: any): boolean {
   );
 }
 
-servidor.listen(3000, () => {
-  console.log('Servidor rodando na porta 3000');
+servidor.listen(3001, () => {
+  console.log('Servidor rodando na porta 3001');
 });
