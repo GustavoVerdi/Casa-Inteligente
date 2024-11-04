@@ -72,5 +72,5 @@ Após instalar as dependências, inicie o frontend com o comando:
 ```powershell
 npm start server
 ```
-Esse comando abrirá o frontend no navegador padrão, geralmente em http://localhost:3000. Você poderá então interagir com a interface para controlar os dispositivos simulados.
+Esse comando abrirá o frontend no navegador padrão, geralmente em http://localhost:3001. Você poderá então interagir com a interface para controlar os dispositivos simulados.
 
