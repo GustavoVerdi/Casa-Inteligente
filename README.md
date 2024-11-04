@@ -3,8 +3,8 @@ Dev by: `@GustavoVerdi` ```@Henrikygustavo```
 ### Passo a passo para rodar o projeto:
 ---
 ## Configurar o Backend (Servidor)
-**Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
-   1° passo: Com a pasta em sua máquina, navegue até a pasta do backend com o comando:
+1° passo: Abrir o terminal (PowerShell ou outro) no diretório do Backend:<br/> 
+Com a pasta em sua máquina, navegue até a pasta do backend com o comando:
    ```
    cd <caminho-da-pasta>/casainteligente-backend
    ```
