@@ -20,7 +20,7 @@ git clone https://github.com/GustavoVerdi/Casa-Inteligente.git
 
 No VS Code, navegue até File > Open Folder... e selecione a pasta Casa-Inteligente que você acabou de clonar.
 
-**2. No VSCode, abra o terminal em Terminal > New Terminal ou use o atalho Ctrl + Shift + ~.**
+**2. No VSCode, abra o terminal em Terminal > New Terminal 
 
 Selecione PowerShell como o terminal.
 
