@@ -50,7 +50,7 @@ Esse comando iniciará o backend em modo de desenvolvimento, e o terminal mostra
 
 ### Configuração do Frontend
 
-1. Navegar até a pasta do frontend
+**1. Navegar até a pasta do frontend**
 
 No VS Code, abra outro terminal PowerShell, dentro dele navegue até a pasta do frontend com:
 
