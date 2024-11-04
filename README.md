@@ -77,6 +77,5 @@ npm start server
 
 Ao aparece a mensagem acima apenas precione a tecla Y, para alternar a porta para 3001 pois a mesma se encontra em uso no backend,
 
-
 Esse comando abrirá o frontend no navegador padrão, geralmente em http://localhost:3001. Você poderá então interagir com a interface para controlar os dispositivos simulados.
 
