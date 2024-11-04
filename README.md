@@ -8,6 +8,7 @@ Abra o terminal (Git Bash) e clone o repositório com o seguinte comando:
 
 ```bash
 git clone https://github.com/GustavoVerdi/Casa-Inteligente.git
+
 Abrir o projeto no VS Code
 No VS Code, navegue até File > Open Folder... e selecione a pasta Casa-Inteligente que você acabou de clonar.
 
