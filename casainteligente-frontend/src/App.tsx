@@ -13,7 +13,7 @@ import { ChevronLeft, ChevronRight, Sun } from "lucide-react";
 import BotaoEstado from "./components/ui/botao-estado";
 
 const socket = io("http://localhost:3000", {
-  autoConnect: false,
+  autoConnect: true,
 });
 
 interface EstadosDispositivos {
