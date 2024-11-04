@@ -15,12 +15,12 @@ Instalar as dependências do projeto:
    ```
 Apos fazer a instalação das dependencias executar o comando
  ```
-    npm run dev
+ npm run dev
  ```
 Sempre iniciar o backend primeiro.
 ## Configurar e Iniciar o servidor Frontend:
 Abrir outro terminal (PowerShell ou outro) no diretório do Frontend:
-   Navegue até a pasta do frontend com o comando:
+Navegue até a pasta do frontend com o comando:
    ```
    cd <caminho-da-pasta>/casainteligente-frontend
    ```
