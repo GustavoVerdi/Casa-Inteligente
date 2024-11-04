@@ -4,7 +4,7 @@ Dev by: `@GustavoVerdi` ```@Henrikygustavo```
 ---
 ## Configurar o Backend (Servidor)
 **Abrir o terminal (PowerShell ou outro) no diretório do Backend:**
-   Com a pasta em sua máquina, navegue até a pasta do backend com o comando:
+   1° passo: Com a pasta em sua máquina, navegue até a pasta do backend com o comando:
    ```
    cd <caminho-da-pasta>/casainteligente-backend
    ```
@@ -30,7 +30,7 @@ Navegue até a pasta do frontend com o comando:
    ```
    npm i
    ```
-Após a instalação, inicie o frontend com o comando:
+3° passo: Após a instalação, inicie o frontend com o comando:
   ```
    npm start server
   ```
