@@ -59,12 +59,14 @@ cd .\casainteligente-frontend
 ```
 
 **2. Instalar as dependências**
+
 No terminal PowerShell, execute o seguinte comando para instalar as dependências do frontend:
 
 ```powershell
 npm i
 ```
 **3. Iniciar o frontend em modo de desenvolvimento**
+
 Após instalar as dependências, inicie o frontend com o comando:
 
 ```powershell
