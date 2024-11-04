@@ -1,6 +1,6 @@
 # Casa Inteligente
 
-**Desenvolvido por**: `@GustavoVerdi` e `@Henrikygustavo`
+**Desenvolvido por**: [@GustavoVerdi](https://github.com/GustavoVerdi/) e [@Henrikygustavo](https://github.com/Henrikygustavo/)
 
 ## Passo a passo para rodar o projeto
 
