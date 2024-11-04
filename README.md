@@ -69,6 +69,9 @@ npm i
 
 Após instalar as dependências, inicie o frontend com o comando:
 
+![image](https://github.com/user-attachments/assets/3380db7f-95cb-4dd3-8338-c3275cd8c383)
+
+
 ```powershell
 npm start server
 ```
