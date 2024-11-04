@@ -69,11 +69,14 @@ npm i
 
 Após instalar as dependências, inicie o frontend com o comando:
 
-![image](https://github.com/user-attachments/assets/3380db7f-95cb-4dd3-8338-c3275cd8c383)
-
-
 ```powershell
 npm start server
 ```
+
+![image](https://github.com/user-attachments/assets/9df9e2d2-d48d-4621-9377-705f92d20f7f)
+
+Ao aparece a mensagem acima apenas precione a tecla Y, para alternar a porta para 3001 pois a mesma se encontra em uso no backend,
+
+
 Esse comando abrirá o frontend no navegador padrão, geralmente em http://localhost:3001. Você poderá então interagir com a interface para controlar os dispositivos simulados.
 
