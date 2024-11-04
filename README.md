@@ -10,7 +10,7 @@
 
 Abra o terminal powershell e clone o repositório com o seguinte comando:
 
-```bash
+```PowerShell
 git clone https://github.com/GustavoVerdi/Casa-Inteligente.git
 ```
 
