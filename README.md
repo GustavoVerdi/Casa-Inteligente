@@ -12,8 +12,9 @@
 
 Abra o terminal powershell e clone o repositório com o seguinte comando:
 
-``powershell
-git clone https://github.com/GustavoVerdi/Casa-Inteligente.git ``
+```powershell
+git clone https://github.com/GustavoVerdi/Casa-Inteligente.git
+```
 
 2. Abrir o projeto no VS Code
 No VS Code, navegue até File > Open Folder... e selecione a pasta Casa-Inteligente que você acabou de clonar.
